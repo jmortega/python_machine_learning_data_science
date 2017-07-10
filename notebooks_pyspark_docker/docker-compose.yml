@@ -1,0 +1,11 @@
+version: "2"
+
+services:
+  pyspark:
+    build: .
+    expose:
+      - 8888
+    ports:
+      - 8888:8888
+    volumes:
+      - ./notebook:/notebook

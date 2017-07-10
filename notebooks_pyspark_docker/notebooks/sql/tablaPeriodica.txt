@@ -1,0 +1,10 @@
+Hydrogen,1.008
+Helium,4.0026022
+Lithium,6.94
+Beryllium,9.01218315
+Boron,10.81
+Carbon,12.011
+Nitrogen,14.007
+Oxygen,15.999
+Fluorine,18.9984031636
+Neon,20.17976
